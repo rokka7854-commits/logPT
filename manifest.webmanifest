@@ -1,0 +1,15 @@
+{
+  "name": "Näytön arviointi - Logistiikan perustutkinto",
+  "short_name": "Näyttöarviointi",
+  "description": "Näyttöjen arviointi logistiikan perustutkinnossa.",
+  "lang": "fi",
+  "start_url": "nayttoarviointi_esimerkkisivu.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fb",
+  "theme_color": "#0b3b5f",
+  "icons": [
+    {"src": "icons/nayttoarviointi-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/nayttoarviointi-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
