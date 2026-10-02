@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nayttoarviointi-v2';
+const CACHE_NAME = 'nayttoarviointi-v3';
 const APP_FILES = [
   './',
   './nayttoarviointi_esimerkkisivu.html',
