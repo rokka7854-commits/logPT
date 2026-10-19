@@ -1,9 +1,9 @@
 {
-  "name": "Näytön arviointi - Logistiikan perustutkinto",
-  "short_name": "Näyttöarviointi",
+  "name": "LogPT – Näytön arviointi",
+  "short_name": "LogPT",
   "description": "Näyttöjen arviointi logistiikan perustutkinnossa.",
   "lang": "fi",
-  "start_url": "nayttoarviointi_esimerkkisivu.html",
+  "start_url": "LogPT.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5f8fb",
